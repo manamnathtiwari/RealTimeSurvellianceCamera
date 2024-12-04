@@ -86,6 +86,8 @@ py-cpuinfo==9.0.0
 pyarrow==18.1.0
 pycparser==2.22
 pycryptodome==3.21.0
+pydantic==1.10.2
+pydantic_core==1.10.2
 pydeck==0.9.1
 Pygments==2.18.0
 PyNaCl==1.5.0
