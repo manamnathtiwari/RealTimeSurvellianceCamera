@@ -22,7 +22,6 @@ crc32c==2.7.1
 cv==1.0.0
 cycler==0.12.1
 cytoolz==1.0.0
-eth-account==0.13.4
 eth-hash==0.7.0
 eth-keyfile==0.8.1
 eth-keys==0.6.0
