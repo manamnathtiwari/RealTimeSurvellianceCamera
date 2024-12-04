@@ -4,6 +4,9 @@
         "src": "run.py",
         "use": "@vercel/python"
     }],
+    "env": {
+        "PYTHON_VERSION": "3.10"
+    },
     "routes": [{
         "src": "/(.*)",
         "dest": "run.py"
