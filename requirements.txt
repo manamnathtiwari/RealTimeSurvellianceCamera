@@ -118,6 +118,7 @@ telebot==0.0.5
 tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
+tensorflow==2.18.0
 termcolor==2.5.0
 tf_keras==2.18.0
 tokenizers==0.20.3
