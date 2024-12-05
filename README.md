@@ -1,25 +1,24 @@
-## Project structure
+# Real-Time Harassment Detection for TONr Community  
 
--   `contracts` - source code of all the smart contracts of the project and their dependencies.
--   `wrappers` - wrapper classes (implementing `Contract` from ton-core) for the contracts, including any [de]serialization primitives and compilation functions.
--   `tests` - tests for the contracts.
--   `scripts` - scripts used by the project, mainly the deployment scripts.
+This component is an AI-driven real-time surveillance system integrated with the **TONr Community Platform**, a decentralized crowdfunding application built on the **TON Blockchain**.  
 
-## How to use
+## Purpose  
+The harassment detection system ensures a safer environment by:  
+1. Monitoring surveillance feeds in real time.  
+2. Assigning a **harassment severity score** to locations or individuals.  
+3. Enabling **fund distribution** from the TONr Community to support the upkeep of violence-free spaces.  
 
-### Build
+## Key Features  
+- **AI-Powered Monitoring:** Detects harassment and calculates severity scores using advanced machine learning models.  
+- **Decentralized Fund Allocation:** Facilitates automatic fund distribution through TONr smart contracts to maintain safety measures.  
+- **Transparency & Security:** Blockchain ensures tamper-proof fund tracking and equitable distribution.  
 
-`npx blueprint build` or `yarn blueprint build`
+## Benefits  
+- Empowers communities to create and sustain safer environments.  
+- Provides financial aid for victims and organizations working against harassment.  
+- Promotes a decentralized, trustless model for fund management.  
 
-### Test
+## Integration  
+The system seamlessly integrates with the TONr platform, making fund allocation transparent, automated, and secure.  
 
-`npx blueprint test` or `yarn blueprint test`
-
-### Deploy or run another script
-
-`npx blueprint run` or `yarn blueprint run`
-
-### Add a new contract
-
-`npx blueprint create ContractName` or `yarn blueprint create ContractName`
-"# RealTimeSurvellianceCamera" 
+**Join us in making a difference with TONr. Together, let’s create a safer world.**
